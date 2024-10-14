@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516034359 source:c:\projektit\c++\hello\heloo.cpp
+	<iostream>
+
+1516702710 source:c:\projektit\c++\hello\string2.cpp
+	<iostream>
+	<string>
+

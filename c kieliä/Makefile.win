@@ -1,0 +1,30 @@
+# Project: Tervehdys
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = Tervehdys.o $(RES)
+LINKOBJ  = Tervehdys.o $(RES)
+LIBS =  -L"C:/Yliopisto/Dev-Cpp/lib"  
+INCS =  -I"C:/Yliopisto/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Yliopisto/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Yliopisto/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Yliopisto/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Yliopisto/Dev-Cpp/include/c++/3.4.2"  -I"C:/Yliopisto/Dev-Cpp/include" 
+BIN  = Tervehdys.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Tervehdys.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o "Tervehdys.exe" $(LIBS)
+
+Tervehdys.o: Tervehdys.c
+	$(CC) -c Tervehdys.c -o Tervehdys.o $(CFLAGS)

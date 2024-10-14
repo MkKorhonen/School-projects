@@ -1,0 +1,3 @@
+1) 1.5h
+2) Vaikeaa oli hahmottaa miten tehtävä pitäisi tehdä
+3) kutsumaan olioita

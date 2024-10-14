@@ -1,0 +1,96 @@
+
+Kentan koko 6x6  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 10
+Kentan koko 5x5  Miinojen maara: 10
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 10x10  Miinojen maara: 50
+Kentan koko 5x5  Miinojen maara: 10
+Kentan koko 10x10  Miinojen maara: 50
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 3x3  Miinojen maara: 1
+Kentan koko 5x5  Miinojen maara: 1
+Kentan koko 5x5  Miinojen maara: 1
+Kentan koko 5x5  Miinojen maara: 5
+Kentan koko 3x3  Miinojen maara: 1
+Kentan koko 3x3  Miinojen maara: 1
+Kentan koko 5x5  Miinojen maara: 5
+H‰visit pelinKentan koko 3x3  Miinojen maara: 1
+H‰visit pelinKentan koko 3x3  Miinojen maara: 1
+Voitit pelinKentan koko 3x3  Miinojen maara: 9
+H‰visit pelin
+Kentan koko 5x5  Miinojen maara: 1
+Kentan koko 5x5  Miinojen maara: 1
+Voitit pelinKentan koko 5x5  Miinojen maara: 1
+Kentan koko 5x5  Miinojen maara: 1
+Voitit pelin 
+ p‰iv‰m‰‰r‰: Tue Dec 12 15:02:37 2017Kentan koko 3x3  Miinojen maara: 9
+Kentan koko 3x3  Miinojen maara: 9
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:17:53 2017, aika: 0.0
+Kentan koko 3x3  Miinojen maara: 9
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:22:34 2017, aika: 1513084954.4886615
+Kentan koko 3x3  Miinojen maara: 9
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:23:58 2017, aika: 1513085038.0068927
+Kentan koko 3x3  Miinojen maara: 9
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:27:04 2017, aika: 1513085224
+Kentan koko 3x3  Miinojen maara: 3
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:28:17 2017, aika: 1513085297
+Kentan koko 3x3  Miinojen maara: 9
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:29:39 2017, aika: 3
+Kentan koko 5x5  Miinojen maara: 1
+Voitit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:32:01 2017, aika: 2 sekuntti
+Kentan koko 5x5  Miinojen maara: 1
+Voitit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:33:38 2017, aika: 1 sekuntti
+Kentan koko 3x3  Miinojen maara: 9
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:37:16 2017, aika: 1 sekunttia, vuoroja: 1
+Kentan koko 5x5  Miinojen maara: 2
+Voitit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:38:03 2017, aika: 10 sekunttia
+Kentan koko 5x5  Miinojen maara: 2
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:38:46 2017, aika: 30 sekunttia, vuoroja: 16
+Kentan koko 5x5  Miinojen maara: 2
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:40:44 2017, aika: 6 sekunttia, vuoroja: 3
+Kentan koko 5x5  Miinojen maara: 2
+Voitit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:41:03 2017, aika: 9 sekunttia, vuoroja: 8
+Kentan koko 5x5  Miinojen maara: 2
+Voitit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:41:47 2017, aika: 16 sekunttia, vuoroja: 17
+Kentan koko 5x5  Miinojen maara: 2
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:42:23 2017, aika: 10 sekunttia, vuoroja: 21
+Kentan koko 5x5  Miinojen maara: 2
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:43:51 2017, aika: 4 sekunttia, vuoroja: 4
+Kentan koko 5x5  Miinojen maara: 2
+Voitit pelin, p‰iv‰m‰‰r‰: Tue Dec 12 15:44:11 2017, aika: 9 sekunttia, vuoroja: 4
+Kentan koko 3x3  Miinojen maara: 3
+Voitit pelin, p‰iv‰m‰‰r‰: Tue Dec 26 11:13:02 2017, aika: 27 sekunttia, vuoroja: 9
+Kentan koko 10x10  Miinojen maara: 12
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 26 11:14:02 2017, aika: 9 sekunttia, vuoroja: 3
+Kentan koko 100x100  Miinojen maara: 68
+H‰visit pelin, p‰iv‰m‰‰r‰: Tue Dec 26 11:15:13 2017, aika: 38 sekunttia, vuoroja: 8
+Kentan koko 10x10  Miinojen maara: 25
+H‰visit pelin, p‰iv‰m‰‰r‰: Mon Jan 15 13:03:48 2018, aika: 8 sekunttia, vuoroja: 3
+Kentan koko 10x10  Miinojen maara: 15
+H‰visit pelin, p‰iv‰m‰‰r‰: Mon Jan 15 13:05:54 2018, aika: 117 sekunttia, vuoroja: 18
+Kentan koko 10x10  Miinojen maara: 15
+H‰visit pelin, p‰iv‰m‰‰r‰: Mon Jan 15 13:06:20 2018, aika: 1 sekunttia, vuoroja: 1
+Kentan koko 10x10  Miinojen maara: 15
+Voitit pelin, p‰iv‰m‰‰r‰: Mon Jan 15 13:07:50 2018, aika: 83 sekunttia, vuoroja: 50

@@ -1,0 +1,6 @@
+#ifndef GREETER_H_INCLUDED
+#define GREETER_H_INCLUDED
+
+bool
+
+#endif // GREETER_H_INCLUDED

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1547623620 source:c:\projektit\c++\vt2-1\squarematrix_tests.cpp
+
+1547626925 source:c:\projektit\c++\vt2-1\intelement.cpp
+	"intelement.h"
+
+1547627079 c:\projektit\c++\vt2-1\intelement.h
+	<iostream>
+

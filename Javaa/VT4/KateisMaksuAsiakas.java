@@ -1,0 +1,2 @@
+class KateisMaksuAsiakas extends Asiakas{
+	

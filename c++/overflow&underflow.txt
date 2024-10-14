@@ -1,0 +1,12 @@
+#include <limits>
+
+int main() {
+   int overflow = std::numeric_limits<int>::max() + 1;
+   if ((a > 0) && (b > std::numeric_limits<int>::max() - a))
+       throw std::overflow_error("Overflow detected!");
+       std::underflow_error("");
+   if (__builtin_saddl_overflow(a,b,&a))
+      throw std::overflow_error("Overflow detected!");
+   int underflow = std::numeric_limits<int>::min() - 1;
+   int something = std::numeric_limits<int>::min() * -1;
+}
